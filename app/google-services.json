@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "927938224372",
+    "firebase_url": "https://bollyfilmes.firebaseio.com",
+    "project_id": "bollyfilmes",
+    "storage_bucket": "bollyfilmes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927938224372:android:e2009b7195bf5ba7",
+        "android_client_info": {
+          "package_name": "me.apptize.bollyfilmes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "927938224372-36ok1j6pfsbao6grvat3ehvrvaalfs0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.apptize.bollyfilmes",
+            "certificate_hash": "d19796f3116e72a62614a5ffc95ad2f9ab80303a"
+          }
+        },
+        {
+          "client_id": "927938224372-8drp2unken25sn2id0pv5c48idv0sgah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDraGb1w2lxn3gJpooebCeSkQHy2B-OGM8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "927938224372-8drp2unken25sn2id0pv5c48idv0sgah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

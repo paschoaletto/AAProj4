@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Bolly Movies</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="detalhe_activity_label">Detail</string>
+    <string name="settings_activity_label">Settings</string>
+
+    <string name="prefs_ordem_label">Sort</string>
+    <string name="prefs_ordem_key">ordem</string>
+
+    <string-array name="prefs_ordem_values">
+        <item>popular</item>
+        <item>top_rated</item>
+    </string-array>
+
+    <string-array name="prefs_ordem_entries">
+        <item>Popular</item>
+        <item>Top Rated</item>
+    </string-array>
+
+    <string name="prefs_idioma_label">Language</string>
+    <string name="prefs_idioma_key">idioma</string>
+    <string name="menu_atualizar_label">Update</string>
+    <string name="menu_configuracoes_label">Settings</string>
+
+    <string-array name="prefs_idioma_values">
+        <item>pt-BR</item>
+        <item>en</item>
+    </string-array>
+    <string-array name="prefs_idioma_entries">
+        <item>Brazilian Portuguese</item>
+        <item>English</item>
+    </string-array>
+</resources>
